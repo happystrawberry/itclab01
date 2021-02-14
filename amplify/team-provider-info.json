@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ctilabreact01-dev-150102-authRole",
+      "UnauthRoleArn": "arn:aws:iam::784536575873:role/amplify-ctilabreact01-dev-150102-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::784536575873:role/amplify-ctilabreact01-dev-150102-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-ctilabreact01-dev-150102-deployment",
+      "UnauthRoleName": "amplify-ctilabreact01-dev-150102-unauthRole",
+      "StackName": "amplify-ctilabreact01-dev-150102",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:784536575873:stack/amplify-ctilabreact01-dev-150102/439af8e0-6e79-11eb-a309-0a207cfc57c8",
+      "AmplifyAppId": "d1nfcoww1a88ys"
+    }
+  }
+}
